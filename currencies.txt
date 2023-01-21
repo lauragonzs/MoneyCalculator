@@ -1,0 +1,15 @@
+usd,U.S. Dollar,$
+cad,Canadian Dollar,$
+eur,Euro,€
+gbp,Sterling,£
+aud,Australian Dollar,$
+chf,Swiss franc,CHF
+hkd,Hong Kong Dollar,HK$
+sgd,Singapore Dollar,S$
+sek,Swedish krona,kr
+nok,Norwegian krone,kr
+nzd,New Zealand Dollar,NZ$
+inr,Indian rupee,₹
+mxn,Mexican peso,$
+jpy,Japanese yen,¥/円
+krw,South Korean won,₩/원
